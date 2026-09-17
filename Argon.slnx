@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Argon.csproj" />
+  <Project Path="ArgonExtensions\ArgonExtensions.csproj" />
+</Solution>
